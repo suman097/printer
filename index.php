@@ -9,22 +9,11 @@
         <!-- Meta Tags -->
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-        <title>Plainotek |  Plainotek description</title>   
+        <title>Plainotek |  Plainotek description in the title section</title>   
 
         
         <meta name="Search_Engines" content="Google, MSN, Bing, Overture, AltaVista, Yahoo, AOL, Infoseek, LookSmart, Excite, Hotbot, Lycos, Magellan, CNET, DogPile, Ask Jeeves, Teoma, Snap, Webcrawler, Ask " />
-        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-        <meta content="A best hotel in chandipur, Balasore" name="Classification">
-        <meta content="	Avijit Saha, India" name="author">
-        <meta name="rating" content="general">
-        <meta NAME="ROBOTS" CONTENT="ALL">
-        <meta name="revisit-after" content="daily" />
-        <meta name="site" content="India Hotel" />
-        <meta name="coverage" content="Global"/>
-        <meta name="focus" content="fast search technology"/>
-        <meta name="location" content="India"/>
-        <meta name="city" content="Balasore"/>
-        <meta name="country" content="India"/>
+        
 
         <!-- Mobile Specifics -->
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
